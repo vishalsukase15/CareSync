@@ -1,0 +1,18 @@
+{
+  "users": [],
+  "patientProfiles": [],
+  "doctorProfiles": [],
+  "hospitals": [],
+  "hospitalDepartments": [],
+  "appointments": [],
+  "medicalRecords": [],
+  "prescriptions": [],
+  "recommendations": [],
+  "labReports": [],
+  "bedAvailabilities": [],
+  "conversations": [],
+  "messages": [],
+  "videoConsultations": [],
+  "notifications": [],
+  "auditLogs": []
+}

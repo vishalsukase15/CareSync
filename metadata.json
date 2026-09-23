@@ -1,0 +1,12 @@
+{
+  "name": "CareSync",
+  "description": "A comprehensive healthcare management and doctor consultation platform connecting patients, doctors, hospitals, and administrators with real-time consultation and bed tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
